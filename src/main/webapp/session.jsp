@@ -15,7 +15,7 @@
 <title>##### Test Application #####</title>
 </head>
 <body>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Hyundai_card_CI_new.png">
+	<img src="img/pentalink.jpg">
 	<br>
 	<a href="session">Session</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
