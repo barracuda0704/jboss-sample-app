@@ -11,7 +11,7 @@
 <title>##### Test Application #####</title>
 </head>
 <body>
-	<img src="img/pentalink.jpg">
+	<img src="img/redhat.png">
 	<br>
 	<a href="session">Session</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
