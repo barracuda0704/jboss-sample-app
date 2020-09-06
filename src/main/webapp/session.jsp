@@ -15,7 +15,7 @@
 <title>##### Test Application #####</title>
 </head>
 <body>
-	<img src="img/redhat.png">
+	<img src="img/redhat.png"  width="300">
 	<br>
 	<a href="session">Session</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
