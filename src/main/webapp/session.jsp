@@ -16,7 +16,6 @@
 </head>
 <body>
 	<img src="img/redhat.png"  width="300">
-	<!-- <img src="img/ss.gif"  width="300"> -->
 	<br>
 	<a href="session">Session</a>&nbsp;|&nbsp;
 	<a href="status">Status</a>&nbsp;|&nbsp;
